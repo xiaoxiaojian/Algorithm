@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertSort",
+            "request": "launch",
+            "mainClass": "InsertSort"
+        }
+    ]
+}
